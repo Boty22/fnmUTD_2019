@@ -1,6 +1,6 @@
 # Supporting materials for the UTD 2019 Hackathon
 
-Fannie Mae Public API Portal can be found at: https://developer.theexchange.fanniemae.com/
+The Fannie Mae Public API Portal can be found at: https://developer.theexchange.fanniemae.com/
 
 There is no cost to create an account and any information published here is available to the public.
 
